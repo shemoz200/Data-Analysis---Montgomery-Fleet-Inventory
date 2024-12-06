@@ -32,6 +32,14 @@ Used the Find and Replace feature to remove unnecessary spaces from the data.
 Combined department names, which were split across two columns, into a single column using the Flash Fill feature.
 Removed the original split columns after combining.
 
+
 # TOOLS USED 
 Excel for the Web: Performed all tasks using the free web version of Excel.
 Built-in Excel Features: Utilised features such as AutoFilter, Remove Duplicates, Flash Fill, and Find and Replace.
+
+
+## Repository Structure
+
+Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.xlsx: The original uncleaned dataset.
+Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx: The cleaned and prepared dataset.
+
