@@ -50,7 +50,7 @@ Merging Department Names
 
 The cleaned dataset is saved as Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx. It is now formatted consistently, free of errors, and ready for analysis.
 
-Part 2: Data Analysis with Pivot Tables
+# Part 2: Data Analysis with Pivot Tables
 Objective
 
 To use pivot tables for summarizing and analyzing the cleaned fleet inventory data.
