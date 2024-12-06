@@ -30,14 +30,19 @@ To clean the raw data and prepare it for analysis by resolving common data issue
 
 Column Width Adjustment
 - Ensured all data was visible by resizing the columns to fit the content.
+  
 Removal of Empty Rows
 - Used the Filter tool to identify and delete all blank rows from the dataset.
+  
 Duplicate Removal
 - Applied the "Remove Duplicates" tool to eliminate duplicate entries.
+  
 Spelling Error Correction
 - Performed a manual review of the dataset to identify and fix any spelling errors.
+  
 Whitespace Cleanup
 - Used the "Find and Replace" tool to replace double spaces with single spaces.
+  
 Merging Department Names
 - Leveraged the Flash Fill feature to merge department names that were incorrectly split into two columns.
 
@@ -54,17 +59,22 @@ To use pivot tables for summarizing and analyzing the cleaned fleet inventory da
 
 Format Data as Table
 - The dataset was formatted as a table to enable easier manipulation and dynamic updates.
+  
 AutoSum Calculations
 - Calculated SUM, AVERAGE, MIN, MAX, and COUNT values for the "Equipment Count" column using the AutoSum feature.
+  
 Pivot Table 1: Department-Wise Summary
 - Created a pivot table summarizing the Sum of Equipment Count by Department.
 Sorted the table in descending order based on the equipment count.
+
 - Pivot Table 2: Equipment Class within Departments
+  
 Added the Equipment Class field beneath the Department field in rows.
 - Collapsed all rows except Transportation to focus the analysis.
+  
 Pivot Table 3: Departments within Equipment Class
 - Added the Equipment Class field above the Department field in rows.
-Collapsed all rows except CUV to focus on specific equipment types.
+- Collapsed all rows except CUV to focus on specific equipment types.
 
 # Outcome
 
